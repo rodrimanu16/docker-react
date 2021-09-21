@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          El peluca sapeee Lokitaaaa what'sapp
+          Harringy en Feature Branch
         </p>
         <a
           className="App-link"
